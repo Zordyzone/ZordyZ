@@ -1,6 +1,10 @@
 body{
+    background-color: aqua;
     text-align: center;
-    background-color: rgb(36, 189, 117);
-    font-family: cursive 30px;
-    font-size: cursive 25px;
+}
+h1{
+    color: blue;
+}
+p{
+    font-weight: bold;
 }
